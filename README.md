@@ -1,3 +1,3 @@
 # CSV Assignment
 
-A simple sample web app on reading and manipulating a CSV file. 
+A simple sample backend for a web app that reads and manipulates a CSV file. 
